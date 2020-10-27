@@ -10,6 +10,6 @@ Break down areas of trends:
   - Average Loan Vs Cost of School
   - (l)Average Loan Vs Size of School
   - Average Loan Vs ACT/SAT
-  - (k)Change of Loan Per Year 2001-2019
+  - (k)AVerage Loan Vs Year 2001-2019 - look at change over year
   - Loan Differences for Rank of Institution 
   
