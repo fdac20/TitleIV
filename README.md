@@ -10,4 +10,5 @@ Break down areas of trends:
   - (Logan) Average Loan Vs Size of School
   - (Logan) Loan Differences for Rank of Institution 
   - Average Loan Per Demographics (Gender, ethnicity, age, etc)
-  - Average Loan Vs ACT/SAT
+    - (Chandler) Focus on Gender. 
+  - (Chandler)Average Loan Vs ACT/SAT
