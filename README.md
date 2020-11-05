@@ -11,7 +11,6 @@ Break down areas of trends:
   - (Logan) Average Loan Vs Size of School
     - https://en.wikipedia.org/wiki/List_of_United_States_public_university_campuses_by_enrollment#2018%E2%80%9319_enrollment
   - (Logan) Loan Differences for Rank of Institution
-    - https://cwur.org/2018-19/usa.php
-  - Average Loan Per Demographics (Gender, ethnicity, age, etc)
-    - (Chandler) Focus on Gender. 
+    - https://cwur.org/2018-19/usa.php 
   - (Chandler)Average Loan Vs ACT/SAT
+      https://www.graduateshotline.com/act/average-act-scores.html
