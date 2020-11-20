@@ -12,6 +12,6 @@ Break down areas of trends:
     - https://en.wikipedia.org/wiki/List_of_United_States_public_university_campuses_by_enrollment#2018%E2%80%9319_enrollment
   - (Logan) Loan Differences for Rank of Institution
     - https://cwur.org/2018-19/usa.php 
-  - Average Loan Vs ACT/SAT
+  - (Kemal Fidan) Average Loan Vs ACT/SAT
       - https://www.graduateshotline.com/act/average-act-scores.html
   - (Chandler)Region average loan from 2000-2019
