@@ -13,7 +13,7 @@ Break down areas of trends:
   - (Logan) Loan Differences for Rank of Institution
     - https://cwur.org/2018-19/usa.php 
   - (Kemal Fidan) Average Loan Vs ACT/SAT
-  - Average Loan Vs School’s Gender %
-  - Average Loan Vs School’s Race %
-  - Average Loan Vs Size of City
+  - (Kemal Fidan) Average Loan Vs School’s Gender %
+  - (Kemal Fidan) Average Loan Vs School’s Race %
+  - (Kemal Fidan) Average Loan Vs Size of City
   - (Chandler)Region average loan from 2000-2019
